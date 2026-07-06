@@ -12,7 +12,7 @@ Excel Sales Performance Dashboard is an interactive Microsoft Excel project that
 
 ## Repository Structure
 •	Data:-<a href="https://github.com/samyakbhagat24/Excel-Sales-Dashboard-Project./blob/main/samyak sales.csv">Dataset</a>
-•	Dashboard: -<a href="https://github.com/samyakbhagat24/Excel-Sales-Dashboard-Project./blob/main/samyak sales.xlsx">Excel Sales Dashboard
+•	Dashboard: -<a href="https://github.com/samyakbhagat24/Excel-Sales-Dashboard-Project./blob/main/samyak sales.xlsx">Excel Sales Dashboard Project
 •	Image:<img width="1487" height="640" alt="new dashboard" src="https://github.com/user-attachments/assets/b1e4cf31-3c15-4db4-8b0e-a25fdb13f2bf" />
 
 ## Questions (KPIs)
