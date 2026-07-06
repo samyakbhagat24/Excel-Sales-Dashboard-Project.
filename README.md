@@ -15,3 +15,11 @@ Excel Sales Performance Dashboard is an interactive Microsoft Excel project that
 •	Dashboard: https://github.com/samyakbhagat24/Excel-Sales-Dashboard-Project./blob/main/samyak sales.xlsx <br />
 •	Image:<img width="1487" height="640" alt="new dashboard" src="https://github.com/user-attachments/assets/b1e4cf31-3c15-4db4-8b0e-a25fdb13f2bf" />
 
+# Questions (KPIs)
+•	What is the total sales generated?
+•	What is the total revenue earned?
+•	How many calls were handled during the selected period?
+•	What is the average handling time (AHT)?
+•	Which location has the highest sales and revenue?
+•	How does product performance compare across different months?
+•	How do sales and revenue vary across different locations?
